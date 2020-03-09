@@ -1,7 +1,8 @@
 ---
 title: '比较Python中的列表推导式和map(),filter()函数'
 date: 2019-11-22 10:21:17
-tags:
+tags: python
+categories: python
 ---
 
 # 比较Python中的列表推导式和map(),reduce()函数

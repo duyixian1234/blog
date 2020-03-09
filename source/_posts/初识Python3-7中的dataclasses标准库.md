@@ -1,7 +1,8 @@
 ---
 title: 初识Python3.7的dataclasses标准库
 date: 2020-03-05 16:50:06
-tags:
+tags: python
+categories: python
 ---
 
 # 初识 Python3.7 的 dataclasses 标准库

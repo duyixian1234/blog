@@ -1,7 +1,8 @@
 ---
 title: 使用Python发送邮件
 date: 2019-11-11 11:12:27
-tags:
+tags: python
+categories: python
 ---
 # 使用Python发送邮件
 
