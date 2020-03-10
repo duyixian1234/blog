@@ -8,6 +8,8 @@ categories: python
 
 之前写了一个小工具从远程服务器下载文件，然后通过附件方式发送给自己的邮箱，中间用到了Python里跟邮件相关的两个标准库`email`和`smtp`，使用也并不复杂。
 
+<!-- more -->
+
 ```python
 import smtplib
 import ssl

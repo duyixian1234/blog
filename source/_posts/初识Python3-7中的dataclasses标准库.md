@@ -9,6 +9,8 @@ categories: python
 
 最近在进行一个新的后端项目时想初步应用一下领域驱动设计的思想。DDD 开发需要对一个领域对象进行各种操作，而不是把业务数据包在`dict`里在 `action` 层,`repo` 层中传来传去。如何方便高效地定义实体类成为一个重要前提。Python 3.7 版本引入的新标准库 dataclasses 可以帮助我们解决这个问题。
 
+<!-- more -->
+
 ## 1. dataclasses 的简介和使用
 
 dataclasses 的官方介绍是：

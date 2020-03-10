@@ -7,4 +7,5 @@ public/
 .deploy*/
 .vscode
 themes/
-!themes/next/_config.yml
+sudo!themes/next/_config.yml
+_config.yml
